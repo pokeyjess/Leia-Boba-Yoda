@@ -1,5 +1,7 @@
 # Rock, Paper, Scissors -- Star Wars style!
 
+<img width="729" alt="Screen Shot 2020-09-20 at 4 18 10 AM" src="https://user-images.githubusercontent.com/65363804/93706860-7af60b80-faf8-11ea-9f84-8edd3d743788.png">
+
 ## Leia, Boba, or Yoda?
 
 This is a simple game based off a Rock, Paper, Scissors implementation from my early days as a JavaScript student at Kenzie Academy. I figured I'd have a little fun with it.
@@ -9,8 +11,6 @@ To play, simply click on the character you pick. The computer, by generating a r
 A window prompt will appear, showing how the two choices compare. Once you hit "OK", the page will automatically refresh and you can try again.
 
 Nothing too fancy here. Just a little JavaScript, HTML and CSS.
-
-<img width="729" alt="Screen Shot 2020-09-20 at 4 18 10 AM" src="https://user-images.githubusercontent.com/65363804/93706860-7af60b80-faf8-11ea-9f84-8edd3d743788.png">
 
 <img width="983" alt="Screen Shot 2020-09-20 at 3 10 11 AM" src="https://user-images.githubusercontent.com/65363804/93706486-a70f8d80-faf4-11ea-82e5-a9cceb9681a6.png">
 
