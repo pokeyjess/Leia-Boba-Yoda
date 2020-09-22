@@ -9,7 +9,10 @@ h6 {
 body {
   background-color: rgb(198, 203, 212);
 }
-
+img {
+  max-width: 100px;
+  max-height: 120px;
+}
 #game {
   display: flex;
   flex-direction: row;
@@ -24,5 +27,5 @@ body {
   display: flex;
   flex-direction: column-reverse;
   align-items: center;
-  margin: 70px;
+  margin: 5%;
 }
