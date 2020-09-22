@@ -2,11 +2,13 @@
 
 <img width="729" alt="Screen Shot 2020-09-20 at 4 18 10 AM" src="https://user-images.githubusercontent.com/65363804/93706860-7af60b80-faf8-11ea-9f84-8edd3d743788.png">
 
+Try it live: https://pokeyjess.github.io/Leia-Boba-Yoda/
+
 ## Leia, Boba, or Yoda?
 
 This is a simple game based off a Rock, Paper, Scissors implementation from my early days as a JavaScript student at Kenzie Academy. I figured I'd have a little fun with it.
 
-To play, simply click on the character you pick. The computer, by generating a random number, will pick one of the three.
+To play, simply click on the character you pick. The computer, by generating a random number, will also pick one of the three.
 
 A window prompt will appear, showing how the two choices compare. Once you hit "OK", the page will automatically refresh and you can try again.
 
